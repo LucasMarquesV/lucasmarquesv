@@ -17,8 +17,10 @@ Extremely communicative and I'm nearly always listening to music (about 36% of t
 
 <h2 align="left"> Some projects:</h2>
 <details>
-<summary> 🟢 SongAPI CRUD - C# - ASP.NET API 🟢 [Finished] </summary><br>
+<summary> 🟢 SongAPI CRUD  - C# - ASP.NET API 🟢 [Finished] </summary><br>
 My first Web API works as a CRUD API with an SQL database, and all requests are made through Swagger. It's essentially an application that allows you to register, read, and list songs. Additionally, it can create, update, and delete them.
+
+You can acess it by clicking [here](https://github.com/LucasMarquesV/SongAPI)
 
 Listing the songs:
 <img src="img/list.png">
@@ -29,6 +31,8 @@ Listing the songs:
 <summary> 🟢 PasswordStorage CRUD - C#  - ASP.NET APP 🟢 [Finished] </summary><br>
 My first web app works as a CRUD application built with MVC using an SQL database. It's essentially an application that registers, reads, and lists logins and passwords. Additionally, it can create, update, and delete them.
 
+You can acess it by clicking [here](https://github.com/LucasMarquesV/PasswordStorage)
+
 Listing the passwords after creating a new one:
 <img src="img/senhas.png">
 <br>
@@ -38,6 +42,9 @@ Listing the passwords after creating a new one:
 <details>
 <summary>🟢 PokePaperScissors - C# - Windows Forms 🟢 [Finished] </summary><br>
 It's a Windows Form application. Simply the classic Rock, Paper Scissors but with the 3 initial Pokemons from the first gen.
+
+You can acess it by clicking [here](https://github.com/LucasMarquesV/PokePaperScissors)
+
 <img src="img/pokepaperscissors.gif">
 <br>
 </details>
@@ -45,6 +52,9 @@ It's a Windows Form application. Simply the classic Rock, Paper Scissors but wit
 <details>
 <summary> 🟢 SnakeGame - C#  - Windows Forms 🟢 [Finished] </summary><br>
 The old fashioned nostalgic Snake Game made on Windows Forms.
+
+You can acess it by clicking [here](https://github.com/LucasMarquesV/SnakeGame)
+
 <img src="img/snakewpf.gif">
 <br>
 </details>
@@ -52,6 +62,9 @@ The old fashioned nostalgic Snake Game made on Windows Forms.
 <details>
 <summary> 🟡  PokeTournament - C#  - ASP.NET APP 🟡 [Stable/On Going] </summary><br>
 A Tournament made with 16 different types of Pokemons with a simple and random logic so everyone of them can win in each one of the matches, only depending on the random oponent.
+
+
+You can acess it by clicking [here](https://github.com/LucasMarquesV/PokeTournament)
 
 First test result:
 <img src="img/result.gif">
