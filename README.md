@@ -2,7 +2,7 @@
 <h2 align="center" > 💻👨‍💻 Hey, I'm Lucas! Backend developer from São Paulo - Brazil! 👨‍💻💻</h2>
 <h3 >Currently working for T-Systems (Deutsche Telekom) as a C# Software Developer Intern, learning and getting better every day. On my way to becoming a full-stack developer!
 
-Extremely communicative and I'm nearly always listening to music (about 36% of the time). I also love cooking with my fiancee and running in the park with my dog, Ravioli. </h3>
+Extremely communicative and I'm nearly always listening to music (about 36% of the time). I also love cooking with my fiancee and running. </h3>
 <h2></h2>
 
 
